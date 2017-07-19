@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "319208492076",
+    "firebase_url": "https://playment-1266.firebaseio.com",
+    "project_id": "playment-1266",
+    "storage_bucket": "playment-1266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319208492076:android:33de233fd14d8a7a",
+        "android_client_info": {
+          "package_name": "com.playment.playerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319208492076-7bogg7kr0h62q63lnsgc269e26jhskg2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "319208492076-vpruvkmd4ihqg1ps1hv6rvak30cc5fn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.playment.playerapp",
+            "certificate_hash": "651e30601a893b8f8ddbc2c52d0f9358706b17a3"
+          }
+        },
+        {
+          "client_id": "319208492076-so1r2tr2ub8deh5kme8kenqhl15id3m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.playment.playerapp",
+            "certificate_hash": "1cfce6f5b9c58cc3b26888614d7ea0879fed2951"
+          }
+        },
+        {
+          "client_id": "319208492076-nsfavq28f9cese410auq2uv02unvk1as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqKkClVmYdB1K6lPBg9ZBQ7cweR16c9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "abhilashmirji",
+  "version": "1.0.0",
+  "description": "test npm package",
+  "main": "main.js",
+  "dependencies": {
+    "firebase-admin": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
